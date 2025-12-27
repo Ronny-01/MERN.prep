@@ -1,0 +1,20 @@
+GIT configuration on MAC
+(base) ronakmankale@Ronaks-MacBook-Air ~ % git config --global user.name "Ronak Mankale"
+(base) ronakmankale@Ronaks-MacBook-Air ~ % git config --global user.email "ronakmankale17@gmail.com"
+(base) ronakmankale@Ronaks-MacBook-Air ~ % git config --list
+credential.helper=osxkeychain
+init.defaultbranch=main
+use.name=Ronak ankale
+user.name=Ronak Mankale
+user.email=ronakmankale17@gmail.com
+
+GIT VERSION-
+            git version 2.39.5 (Apple Git-154)
+
+COMMANDS-
+        git clone - cloned MERN.PREP repository into VS code via VS code terminal
+        git status
+        git add
+        git commit
+        cd command
+
